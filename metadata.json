@@ -1,0 +1,6 @@
+{
+  "name": "Omni Cat - AI EdTech Ecosystem",
+  "description": "All-in-one AI-powered educational management & growth ecosystem for schools, colleges, and universities featuring ERP, LMS, and Admissions AI Chatbot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
